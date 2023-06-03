@@ -1,0 +1,12 @@
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\bin\Debug\Sql Database import and export.exe.config
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\bin\Debug\Sql Database import and export.exe
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\bin\Debug\Sql Database import and export.pdb
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql_Database_import_and_export.Form1.resources
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql_Database_import_and_export.Properties.Resources.resources
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.csproj.GenerateResource.cache
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.csproj.CoreCompileInputs.cache
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.exe
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.pdb
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\bin\Debug\MySql.Data.dll
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.csproj.CopyComplete
+C:\Users\Sameera\source\repos\Sql Database import and export\Sql Database import and export\obj\Debug\Sql Database import and export.csproj.AssemblyReference.cache
